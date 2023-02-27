@@ -9,3 +9,6 @@ print(list1)
 list3 = [(list1),(list2)] #Lists can be nested
 list4 = [] #Lists can be empty
 #Lists are dynamic
+list5 = [2,"Hello",'h',2.34]
+print(list1==list5) #Lists are ordered
+
