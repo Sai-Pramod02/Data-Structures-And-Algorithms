@@ -6,4 +6,6 @@ list1.append(3) #Lists are mutable
 print(list1)
 del list1[0]
 print(list1)
+list3 = [(list1),(list2)] #Lists can be nested
+list4 = [] #Lists can be empty
 #Lists are dynamic
