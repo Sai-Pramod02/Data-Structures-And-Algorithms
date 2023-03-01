@@ -20,4 +20,4 @@ print(1 in s1) #Returns if that particular element in present in the set
 # s2 = {[1,2,3], 5}  A set cannot contain mutable emelents in it
 # print(s2)
 s3 = {1, "Hello", 5 , 9} #A set can contain multiple data types 
-print(s3)
+print(s3) #Sets are also unordered
